@@ -267,7 +267,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                   padding:
                       const EdgeInsets.symmetric(horizontal: 28, vertical: 24),
                   child: Column(
-                    crossAxisAlignment: CrossAxisAlignment.start,
+                    crossAxisAlignment: CrossAxisAlignment.center,
                     children: [
                       const Spacer(flex: 2),
                       Container(
